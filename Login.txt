@@ -3,4 +3,7 @@ Hoành thành chức năng login
 Đang fix lỗi login
 
 May A đa tach nhanh
+
+Gio hang may B de lam thanh toan 
 Gio hang may A
+
